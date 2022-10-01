@@ -1,3 +1,6 @@
+![logo](https://github.com/thisispratik01/thisispratik01/blob/main/github-Banner.png)
+
+
 <h1 align="center">Hi 👋, I'm Pratik Dhumal</h1>
 <h3 align="center">A passionate software Engineer from India</h3>
 
